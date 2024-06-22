@@ -1,4 +1,4 @@
 # mycode-demo
 This is my first Git Repository.
 <br>
-Author - Sakhi Chatterjee
+Author - Sakhi (apnacollege)
